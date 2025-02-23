@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there. I'm VarBus👋
+[background_git](https://github.com/user-attachments/assets/2cafc02c-58c9-4f38-8472-7ddcfe752e12)
+About me:
+-Fullstack web developer && Game developer
 
-<!--
-**VarBus/VarBus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
