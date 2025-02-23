@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, I'm <span style="color:#007acc;">VarBus</span> 👋<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
+  <h1>Hey there, I'm <span style="color:#007acc;">VarBus a Junior programmer</span> 👋<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
   
   <img src="https://camo.githubusercontent.com/4d6fa8bd308772d0ac584423a5c52507d4c18d9964c8a12f622632c4893be038/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" width="600px">
   
