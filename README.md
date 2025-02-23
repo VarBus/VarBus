@@ -22,7 +22,7 @@
   <h3>🌎 Connect with me</h3>
   <p>
     <a href="https://github.com/VarBus"><img src="https://img.shields.io/badge/GitHub-VarBus-171515?style=for-the-badge&logo=github"></a>
-    <a href="https://www.linkedin.com/in/varbus"><img src="https://img.shields.io/badge/LinkedIn-VarBus-0077B5?style=for-the-badge&logo=linkedin"></a>
+    <a href="www.linkedin.com/in/marcelovarelabustinza"><img src="https://img.shields.io/badge/LinkedIn-VarBus-0077B5?style=for-the-badge&logo=linkedin"></a>
   </p>
 </div>
 
