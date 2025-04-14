@@ -22,11 +22,16 @@
 
   <h3>🚀 What I am good at:</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,angular,astro,vite,nodejs,mongo,docker,figma" alt="Tech Stack">
-    <br/>
+    <h4>Domain Language:<h4/>
     <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,javascript,typescript" alt="Tech Stack">
      <br/>
-    <img src="https://skillicons.dev/icons?i=godot,unity,gamemakerstudio,github" alt="Tech Stack">
+    <h4>Frontend Frameworks:<h4/>
+    <img src="https://skillicons.dev/icons?i=react,angular,astro,vite" alt="Tech Stack">
+    <br/>
+    <h4>Game Motors:<h4/>
+    <img src="https://skillicons.dev/icons?i=godot,unity,gamemakerstudio" alt="Tech Stack">
+    <h4>Extra tools:<h4/>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,docker,figma,github" alt="Tech Stack">
   </p>
 
   <h3>🌎 Connect with me</h3>
