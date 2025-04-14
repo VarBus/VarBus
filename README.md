@@ -16,9 +16,11 @@
   </p>
   <hr>
 
-  <h3>🚀 Tech Stack</h3>
+  <h3>🚀 TWhat I am good at:</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,react,angular,astro,mongo,vite,nodejs,godot,unity,cpp,python,mongo,docker,git" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=react,angular,astro,vite,nodejs,mongo,docker,figma" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,javascript,typescript" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=godot,unity,gamemakerstudio,github" alt="Tech Stack">
   </p>
 
   <h3>🌎 Connect with me</h3>
