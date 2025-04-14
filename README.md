@@ -16,7 +16,7 @@
   </p>
   <hr>
 
-  <h3>🚀 TWhat I am good at:</h3>
+  <h3>🚀 What I am good at:</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=react,angular,astro,vite,nodejs,mongo,docker,figma" alt="Tech Stack">
     <br/>
