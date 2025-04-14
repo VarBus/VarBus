@@ -17,8 +17,11 @@
   <hr>
   <h3>🎯About me:</h3>
   <p>
-    <li>Enthusiastic of game development. Participating in multiple GameJams.</li>
-    <li></li>
+    <li>📚Student at Peruvian university of applied sciences(UPC)</li>
+    <li>📌Focused on Fullstack development. Collaborating in a variety of academic and personal projects solve real-problems.</li>
+    <li>💻Enthusiastic of game development. Actively participating and networking in multiple GameJams.</li>
+    <li>🌱Passionate about continuous learning, especially in areas like clean code, software architecture, and ethical tech.</li>
+    <li>🧩Interested in project management. Applying agile principles and teamwork strategies to improve productivity and collaboration.</li>
   </p>
 
   <h3>🚀 What I am good at:</h3>
