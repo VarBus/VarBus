@@ -15,6 +15,7 @@
       https://elaborate-starburst-54aee4.netlify.app/
   </p>
   <hr>
+  </div>
   <h3>🎯About me:</h3>
   <p>
     <li>📚Student at Peruvian university of applied sciences(UPC)</li>
@@ -43,5 +44,5 @@
     <a href="https://github.com/VarBus"><img src="https://img.shields.io/badge/GitHub-VarBus-171515?style=for-the-badge&logo=github"></a>
     <a href="https://www.linkedin.com/in/marcelovarelabustinza/"><img src="https://img.shields.io/badge/LinkedIn-VarBus-0077B5?style=for-the-badge&logo=linkedin"></a>
   </p>
-</div>
+
 
