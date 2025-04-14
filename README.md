@@ -16,7 +16,7 @@
 
   <h3>🚀 Tech Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,angular,mongo,vite,nodejs,godot,unity,cpp,git" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=java,react,angular,mongo,vite,nodejs,godot,unity,cpp,python,csharp,git" alt="Tech Stack">
   </p>
 
   <h3>🌎 Connect with me</h3>
