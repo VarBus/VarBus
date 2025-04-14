@@ -17,7 +17,8 @@
   <hr>
   <h3>🎯About me:</h3>
   <p>
-    <li>Enthusiastic of game development. Member of GameLab UPC group.</li>
+    <li>Enthusiastic of game development. Participating in multiple GameJams.</li>
+    <li></li>
   </p>
 
   <h3>🚀 What I am good at:</h3>
