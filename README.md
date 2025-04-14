@@ -10,10 +10,15 @@
     I build seamless digital experiences, from robust web applications to engaging game worlds.  
     Always exploring new technologies and pushing the boundaries of creativity.
   </p>
+  <h3>📃Portfolio:</h3>
   <p>
-    Portfolio: https://elaborate-starburst-54aee4.netlify.app/
+      https://elaborate-starburst-54aee4.netlify.app/
   </p>
   <hr>
+  <h3>🎯About me:</h3>
+  <p>
+    <li>Enthusiastic of game development. Member of GameLab UPC group.</li>
+  </p>
 
   <h3>🚀 What I am good at:</h3>
   <p>
