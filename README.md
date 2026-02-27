@@ -12,7 +12,7 @@
   </p>
   <h3>📃Portfolio:</h3>
   <p>
-      [https://marcelo-varela-portfolio.netlify.app/](https://marcelo-varela-portfolio.vercel.app/)
+      https://marcelo-varela-portfolio.vercel.app/
   </p>
   <hr>
   </div>
